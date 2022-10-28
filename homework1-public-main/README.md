@@ -23,7 +23,7 @@ Protocolul ARP:
  a) Trimiterea request-ului  
   -Daca pe parcursul procesului de dirijare, adresa MAC a urmatorului hop nu
   este in cache, pachetul este pus in coada si se trimite un arp request  
-  -Adresa MAC destinatie a requestului este broadcast(FF.FF.FF.FF.FF.FF)  
+  -Adresa MAC destinatie a requestului este broadcast (FF.FF.FF.FF.FF.FF)  
   -Adresa MAC sursa este cea a interfetei de pe care pachetul trebuie sa
   ajunga la next hop  
   -Campul ether_type din header-ul ethernet este htons(0x806)  
