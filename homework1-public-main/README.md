@@ -1,8 +1,8 @@
 Tema 1 PCOM - Dogaru Laurentiu 323CC
 
-Am rezolvat cerintele:
-    -Procesul de dirijare
-    -Protocolul ARP
+Am rezolvat cerintele:  
+    -Procesul de dirijare  
+    -Protocolul ARP  
     -Protocolul ICMP
 
 -Initial, se aloca memorie pentru cache-ul ARP, tabela de rutare si pentru
